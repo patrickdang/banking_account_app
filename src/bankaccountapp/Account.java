@@ -1,14 +1,5 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package bankaccountapp;
 
-/**
- *
- * @author Patrick
- */
 public abstract class Account implements IBaseRate {
     //List common properties for savings and checking accounts
     private String name;
